@@ -44,7 +44,7 @@
 - **Step 2** Press the functional button that you want
 - **_for this, it is not nessary to click on "=" button_**
 
-### **How get the value of log(_base "e"_), log(_base "10"_), and nth power of e ?**
+### **How get the value of log(base "e"), log(base "10"), and nth power of e ?**
 *This procedure is similer to trigo functions*
 
 ![calculato - Copy](https://user-images.githubusercontent.com/63612820/82444168-707f2300-9ac0-11ea-9706-0567c43874b7.png)
