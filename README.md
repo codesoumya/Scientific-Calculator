@@ -24,3 +24,38 @@
 - **STEP 3** Next take the Second number
 - **STEP 4** Now Press the _"="_button to get result
 - **_To clear the screen prees "c" button and if you want to use backspace press ".del" button_**
+
+### **How to solve the problems of trigonometric function's ?**
+*To solve the problem of sin(0), cos(0), tan(0) and the inverse of these follow the rules*
+**the value of 0(theta) should be in deegres and you will get the value from inverse function also be in deegres**
+![trigo](https://user-images.githubusercontent.com/63612820/82444111-51809100-9ac0-11ea-9e34-0bfa7b88d6e9.png)
+- **STEP 1** At first press the function button that you want
+- **STEP 2** Next press the value of 0(theta) from keypad
+- **STEP 3** At last press the **"="** button to get Answer
+
+### How to evaluate the value of squere, qube, squere root and qube root and factorial of any number?
+
+![sqr](https://user-images.githubusercontent.com/63612820/82444142-63623400-9ac0-11ea-80e5-23e942e96769.png)
+
+- **STEP 1** At first type the test number
+- **Step 2** Press the functional button that you want
+- **_for this, it is not nessary to click on "=" button_**
+
+### How get the value of log(_base "e"_), log(_base "10"_), and nth power of e ?
+*This procedure is similer to trigo functions*
+
+![calculato - Copy](https://user-images.githubusercontent.com/63612820/82444168-707f2300-9ac0-11ea-9706-0567c43874b7.png)
+
+- **STEP 1** At first choose the function from key pad
+- **STEP 2** Next press the test number from keypad
+- **STEP 3** Now click on **"="** button to get Answer
+
+
+![1sdr](https://user-images.githubusercontent.com/63612820/82444179-76750400-9ac0-11ea-9689-d27b5d7a95c9.png)
+![calculato - Copy (2)](https://user-images.githubusercontent.com/63612820/82444181-770d9a80-9ac0-11ea-9038-b4df3854136b.png)
+
+
+
+
+
+
