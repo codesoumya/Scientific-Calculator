@@ -29,7 +29,9 @@
 ### **How to solve the problems of trigonometric function's ?**
 *To solve the problem of sin(0), cos(0), tan(0) and the inverse of these follow the rules*
 **the value of 0(theta) should be in deegres and you will get the value from inverse function also be in deegres**
+
 ![trigo](https://user-images.githubusercontent.com/63612820/82444111-51809100-9ac0-11ea-9e34-0bfa7b88d6e9.png)
+
 - **STEP 1** At first press the function button that you want
 - **STEP 2** Next press the value of 0(theta) from keypad
 - **STEP 3** At last press the **"="** button to get Answer
