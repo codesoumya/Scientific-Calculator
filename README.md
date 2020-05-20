@@ -11,6 +11,8 @@
 - With this calculator, we will be able to find logarithms with base 10,  base "e" and also with any base as you like.
 -  Also, despite all these , we can find the square, cube, square root, cube root, etc. values of a number directly.
 
+![calculato](https://user-images.githubusercontent.com/63612820/82442889-22692000-9abe-11ea-9f61-1f82d35a3188.png)
+
 ## **_To use this sofware follow the procedur given bellow :_**
 
 ### **How to solve normal math problem?**
