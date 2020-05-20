@@ -23,7 +23,7 @@
 - **STEP 1** At first take a number from the key pad
 - **STEP 2** Next choose the function that you want
 - **STEP 3** Next take the Second number
-- **STEP 4** Now Press the _"="_button to get result
+- **STEP 4** Now Press the _"="_ button to get result
 - **_To clear the screen prees "c" button and if you want to use backspace press ".del" button_**
 
 ### **How to solve the problems of trigonometric function's ?**
