@@ -17,6 +17,7 @@
 
 ### **How to solve normal math problem?**
 *To solve the problem of summetion, substraction, multipicatio and division follow the rules bellow*
+
 ![st1](https://user-images.githubusercontent.com/63612820/82441823-2431e400-9abc-11ea-9c01-7b35abbd155c.png)
 
 - **STEP 1** At first take a number from the key pad
@@ -33,7 +34,7 @@
 - **STEP 2** Next press the value of 0(theta) from keypad
 - **STEP 3** At last press the **"="** button to get Answer
 
-### How to evaluate the value of squere, qube, squere root and qube root and factorial of any number?
+### **How to evaluate the value of squere, qube, squere root and qube root and factorial of any number?**
 
 ![sqr](https://user-images.githubusercontent.com/63612820/82444142-63623400-9ac0-11ea-80e5-23e942e96769.png)
 
@@ -41,7 +42,7 @@
 - **Step 2** Press the functional button that you want
 - **_for this, it is not nessary to click on "=" button_**
 
-### How get the value of log(_base "e"_), log(_base "10"_), and nth power of e ?
+### **How get the value of log(_base "e"_), log(_base "10"_), and nth power of e ?**
 *This procedure is similer to trigo functions*
 
 ![calculato - Copy](https://user-images.githubusercontent.com/63612820/82444168-707f2300-9ac0-11ea-9706-0567c43874b7.png)
@@ -50,8 +51,15 @@
 - **STEP 2** Next press the test number from keypad
 - **STEP 3** Now click on **"="** button to get Answer
 
+### **How to use permutation, combination, xY, log(_base "as you like"_) functions?**
 
 ![1sdr](https://user-images.githubusercontent.com/63612820/82444179-76750400-9ac0-11ea-9689-d27b5d7a95c9.png)
+
+- **STEP 1** At first take 1st test number(for log take base)
+- **STEP 2** Next click the function that you want
+- **STEP 3** Take 2nd test numer
+- **STEP 4** Click on _"="_ button to get value
+
 ![calculato - Copy (2)](https://user-images.githubusercontent.com/63612820/82444181-770d9a80-9ac0-11ea-9038-b4df3854136b.png)
 
 
